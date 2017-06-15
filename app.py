@@ -9,8 +9,8 @@ from multiprocessing import Pool
 from user_obj import User
 __auther__ = 'heishan'
 
-userOne = User('18039333899','123456')
-userTwo = User('15311451313','zk6238475')
+userOne = User('','')
+userTwo = User('','')
 user_pool = [userOne,userTwo]
 
 class SMZDMDailyException(Exception):
