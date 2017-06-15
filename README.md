@@ -5,6 +5,6 @@
   本工程支持多进程 多用户同时签到 *方便你帮多人签到*!!!
   如果有什么bug或者建议请联系本人 lijiaolong2017@163.com
   ***
-  *HOW TO USE*
+  #HOW TO USE:
   替换 app.py 内的userOne = User('账号1','密码1'),userTwo = User('账号2','密码2')......
 
